@@ -139,14 +139,6 @@ If the inverter doesn’t respond, check authentication.
 
 ---
 
-## 📌 **Future Improvements**
-- 🔜 **Full MQTT Support**
-- 🔜 **Integration with Home Assistant Energy Dashboard**
-- 🔜 **Custom Automation Features**
-  
-🚀 **Contribute & Improve:** Feel free to submit issues and pull requests!
-
----
 
 ## 👨‍💻 **Author & License**
 - **Author:** Khoshal Amin  
