@@ -21,7 +21,7 @@ The **Inverter Control Add-on** is a **Home Assistant add-on** designed to manag
 2. Navigate to **Settings → Add-ons → Add-on Store**.
 3. Click **Repositories** and add:
    ```
-   https://github.com/your-repo/inverter-control
+   [https://github.com/your-repo/inverter-control](https://github.com/Khoshal01/Home-Assistant-Inverter-Control-Add-on)
    ```
 4. Install **Inverter Control Add-on**.
 5. Click **Start** to run it.
